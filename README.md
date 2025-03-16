@@ -1,4 +1,3 @@
-# sequence-diagram-repo
 ```mermaid
 sequenceDiagram
     participant User
